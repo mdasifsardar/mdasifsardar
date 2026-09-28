@@ -22,7 +22,9 @@ Full Stack MERN Developer • React Developer • Problem Solver
 🔭 Working on Frontend Development & Responsive Design
 <br/>
 🌱 Currently learning Node.js, Express & MongoDB
+<br/>
 💻 Tech I use: HTML, CSS, JavaScript, React, Tailwind CSS
+<br/>
 📫 Feel free to reach me out Email - mdasifsardar84@gmail.com
 
 <br>
@@ -59,7 +61,7 @@ Full Stack MERN Developer • React Developer • Problem Solver
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,react,redux,vite,nextjs" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,nextjs" />
 
 </p>
 
@@ -67,7 +69,7 @@ Full Stack MERN Developer • React Developer • Problem Solver
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,redis,php,dotnet,jest,rabbitmq" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 
 </p>
 
@@ -75,7 +77,7 @@ Full Stack MERN Developer • React Developer • Problem Solver
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=cpp,c,cs,java,python,javascript" />
+<img src="https://skillicons.dev/icons?i=typescript,javascript" />
 
 </p>
 
@@ -83,7 +85,7 @@ Full Stack MERN Developer • React Developer • Problem Solver
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,vercel,netlify,git,github" />
+<img src="https://skillicons.dev/icons?i=vercel,netlify,git,github" />
 
 </p>
 
@@ -91,84 +93,12 @@ Full Stack MERN Developer • React Developer • Problem Solver
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=figma,postman,notion,npm,vscode" />
+<img src="https://skillicons.dev/icons?i=figma,npm,vscode" />
 
 </p>
 
----
 
-# 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.shion.dev/api?username=gurjot-zaildar&theme=tokyonight&show_icons=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=gurjot-zaildar&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=gurjot-zaildar&theme=tokyonight&hide_border=true"/>
-
-</p>
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gurjot-zaildar&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# LeetCode
-
-<p align="center">
-
-<img src="https://leetcard.jacoblin.cool/gurjot_singh_coder?theme=dark&font=Baloo&ext=heatmap"/>
-
-</p>
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://profile-readme-generator.com/assets/snake.svg"/>
-
-</p>
-
----
-
-# 📈 Profile Summary
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gurjot-zaildar&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gurjot-zaildar&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gurjot-zaildar&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gurjot-zaildar&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gurjot-zaildar&theme=tokyonight"/>
-
-</p>
-
----
 
 # ✍️ Dev Quote
 
@@ -180,17 +110,7 @@ Full Stack MERN Developer • React Developer • Problem Solver
 
 ---
 
-# ☕ Support Me
 
-<p align="center">
-
-<a href="https://drive.google.com/file/d/1hkc0qiPg-FRx6uXAtCPsrRMFe1HvYhPL/view?usp=drivesdk">
-<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
-</a>
-
-</p>
-
----
 
 <p align="center">
 
