@@ -20,6 +20,7 @@ Full Stack MERN Developer • React Developer • Problem Solver
 <img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 🔭 Working on Frontend Development & Responsive Design
+<br/>
 🌱 Currently learning Node.js, Express & MongoDB
 💻 Tech I use: HTML, CSS, JavaScript, React, Tailwind CSS
 📫 Feel free to reach me out Email - mdasifsardar84@gmail.com
