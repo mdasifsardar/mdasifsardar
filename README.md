@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Gurjot Singh</h1>
+<h1 align="center">Hi 👋, I'm Md Asif Sardar</h1>
 
 <h3 align="center">
 Full Stack MERN Developer • React Developer • Problem Solver
@@ -19,11 +19,10 @@ Full Stack MERN Developer • React Developer • Problem Solver
 
 <img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-- 💻 Full Stack MERN Developer
-- 🌱 Currently learning **Advanced React & Backend Architecture**
-- 🚀 Passionate about building scalable web applications
-- 🤖 Interested in AI Integration
-- ⚡ Love solving DSA problems
+🔭 Working on Frontend Development & Responsive Design
+🌱 Currently learning Node.js, Express & MongoDB
+💻 Tech I use: HTML, CSS, JavaScript, React, Tailwind CSS
+📫 Feel free to reach me out Email - mdasifsardar84@gmail.com
 
 <br>
 
@@ -33,21 +32,21 @@ Full Stack MERN Developer • React Developer • Problem Solver
 
 <p align="center">
 
-<a href="https://linkedin.com/in/gurjot-zaildar">
+<!-- <a href="https://linkedin.com/in/gurjot-zaildar">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+</a> -->
 
-<a href="https://instagram.com/gurjot_zaildar_pb12">
+<!-- <a href="https://instagram.com/gurjot_zaildar_pb12">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+</a> -->
 
-<a href="mailto:gurjot.singh.coder@gmail.com">
+<a href="mdasifsardar84@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://portfolio-iota-neon-47.vercel.app/">
+<!-- <a href="[https://portfolio-iota-neon-47.vercel.app/](https://www.facebook.com/mdasif213)">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
-</a>
+</a> -->
 
 </p>
 
